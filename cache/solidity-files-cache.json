@@ -21,22 +21,14 @@
                 "evm.methodIdentifiers",
                 "metadata"
               ],
-              "": [
-                "ast"
-              ]
+              "": ["ast"]
             }
           }
         }
       },
-      "imports": [
-        "hardhat/console.sol"
-      ],
-      "versionPragmas": [
-        ">=0.8.0"
-      ],
-      "artifacts": [
-        "Token"
-      ]
+      "imports": ["hardhat/console.sol"],
+      "versionPragmas": [">=0.8.0"],
+      "artifacts": ["Token"]
     },
     "E:\\iNTERNSHIP\\Solulab\\Ethereum\\install_hardhat\\node_modules\\hardhat\\console.sol": {
       "lastModificationDate": 1650458309482,
@@ -58,20 +50,14 @@
                 "evm.methodIdentifiers",
                 "metadata"
               ],
-              "": [
-                "ast"
-              ]
+              "": ["ast"]
             }
           }
         }
       },
       "imports": [],
-      "versionPragmas": [
-        ">=0.4.22 <0.9.0"
-      ],
-      "artifacts": [
-        "console"
-      ]
+      "versionPragmas": [">=0.4.22 <0.9.0"],
+      "artifacts": ["console"]
     }
   }
 }
